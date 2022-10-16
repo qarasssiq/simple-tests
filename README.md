@@ -22,7 +22,7 @@
 ## Сайт
 Регистрация и авторизация пользователя.
 
-![login](https://user-images.githubusercontent.com/57320850/192615411-7c161bf7-c550-466d-894d-491dd643ca9d.jpg)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57320850/196034002-913f2284-42d5-4e4d-ba79-b43dbb385b66.gif)
 
 Главная страница, на которой можно выбрать тест для прохождения.
 
